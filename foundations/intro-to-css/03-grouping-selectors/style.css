@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.box1,
+.box2 {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.box1 {
+    color: #ffffff;
+    background-color: #000000;
+}
+
+.box2 {
+    background: #f6ff00;
+}
